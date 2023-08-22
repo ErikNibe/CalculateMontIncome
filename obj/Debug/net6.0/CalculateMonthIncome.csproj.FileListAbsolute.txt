@@ -1,0 +1,14 @@
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\bin\Debug\net6.0\CalculateMonthIncome.exe
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\bin\Debug\net6.0\CalculateMonthIncome.deps.json
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\bin\Debug\net6.0\CalculateMonthIncome.runtimeconfig.json
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\bin\Debug\net6.0\CalculateMonthIncome.dll
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\bin\Debug\net6.0\CalculateMonthIncome.pdb
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.AssemblyInfoInputs.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.AssemblyInfo.cs
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.csproj.CoreCompileInputs.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.dll
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\refint\CalculateMonthIncome.dll
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.pdb
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\CalculateMonthIncome.genruntimeconfig.cache
+C:\Users\erikn\OneDrive\Área de Trabalho\C#\Exercicios\CalculateMonthIncome\obj\Debug\net6.0\ref\CalculateMonthIncome.dll
